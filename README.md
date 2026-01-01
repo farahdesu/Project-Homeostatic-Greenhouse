@@ -124,7 +124,7 @@ Install these libraries via **Arduino Library Manager**:
 ## 👨‍💻 Author
 
 **Project Developer:** Farah Bhuyan
-**University:**  BRAC University  
+**University:**   BRAC University  
 **Department:** Computer Science and Engineering  
 **Language:** Arduino C++  
 **Version:** 1.0  
