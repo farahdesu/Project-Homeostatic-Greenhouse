@@ -123,8 +123,8 @@ Install these libraries via **Arduino Library Manager**:
 
 ## 👨‍💻 Author
 
-**Project Developer:** [Your Name]  
-**University:** [Your Institution, e.g., BRAC University]  
+**Project Developer:** Farah Bhuyan
+**University:**  BRAC University  
 **Department:** Computer Science and Engineering  
 **Language:** Arduino C++  
 **Version:** 1.0  
